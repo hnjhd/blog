@@ -32,7 +32,7 @@ post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
 author = "hnjhd"                # You can also set author in post front matter individually
-subTitle = "一些记录"
+subTitle = "那些你不愿说出口的话 已代表了永远"
 defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
@@ -71,7 +71,7 @@ og = "/img/og.png"                                          # This will use the 
 
 # Posts shown in homepage
 mainSections = ["post"]
-#mainSections = ["posts"]
+#mainSections = ["life"]
 # Bangumi image chart id
 # bgmImageChart = "000000"
 
@@ -126,8 +126,8 @@ name = "archives"
 url = "/archives/"
 weight = 3 
 [[menu.nav]]
-name = "About"
-url = "/about/"
+name = "aboutme"
+url = "/me/"
 weight = 3
 #[[menu.nav]]
 #name = "UU"
